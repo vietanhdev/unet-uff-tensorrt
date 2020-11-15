@@ -1,0 +1,15 @@
+/data
+/saved_models
+*.pyc
+__pycache___
+/test_results
+*.h5
+*.pb
+gen_data/__pycache__/process_generator.cpython-37.pyc
+gen_data/__pycache__/background_generator.cpython-37.pyc
+gen_data/__pycache__/__init__.cpython-37.pyc
+train.zip
+
+/lane_segmentation*
+
+.vscode
